@@ -2,7 +2,7 @@
 - 👀 I’m interested in GoLang!
 - 🌱 I’m currently learning Docker and K8S
 - 💞️ I’m looking to collaborate on anything related to Go, PHP, Python and everything interesting! 😃 
-- 📫 How to reach me at contact@anuragyadav.tech
+- 📫 How to reach me at contact@anuragyadav.in
 
 <!---
 PoweredByCaffein/PoweredByCaffein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
